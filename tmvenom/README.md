@@ -1,8 +1,5 @@
 -----------------------------------------------------
-#Bismillah
-#Assalamu-Alaikum 
-
-[!] Tmvenom :- 
+[!] venom :- 
   Tmvenom is a python based tool specially designed for
   Termux users.This payload generates some basic payloads
   using metasploit-framework.so You must install metasploit
@@ -13,16 +10,6 @@
    
    1) Termux APp
    2) metasploit-framework 
-   
-[+] Author :-
-
-   Name      : Mujeeb
-   Youtube   : www.youtube.com/TechnicalMujeeb
-   Github    : https://github.com/TechnicalMujeeb/tmvenom.git
-   Whatsapp  : Termux Cyber
-   telegram  : https://t.me/TermuxCyber
-   Instagram : @Technical.Mujeeb
-
 
 [+] Installation :-
   
@@ -30,7 +17,7 @@
    apt upgrade
    apt install git
    apt install python2
-   git clone https://github.com/TechnicalMujeeb/tmvenom.git
+   git clone
    cd tmvenom
    chmod +x *
    sh install.sh
